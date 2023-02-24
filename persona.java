@@ -3,7 +3,7 @@ public class persona {
     String apellidos;
 
     public persona (String nombre, String apellido) {
-        this.nombre = nombre;
+	this.nombre = nombre;
         this.apellidos = apellidos;
     }
 
